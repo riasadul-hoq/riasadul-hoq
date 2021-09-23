@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shaon21 aka Riasadul Hoq
 - ✔ Certified- AWS SAA & DVA | Azure AZ-900 | Terraform | ITIL® | FCBA
-- 👀 I’m interested in DevOps, Cloud ☁
+- 👀 I’m interested in DevOps, Cloud ☁☁☁
 - 🌱 I’m currently learning CKA
 - 💞️ I’m looking to collaborate on DevOps related projects
 - 📫 Contact me via linkedin https://www.linkedin.com/in/mrhoq/
