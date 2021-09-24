@@ -3,7 +3,7 @@
 - 👀 I’m interested in DevOps, Cloud ☁☁☁
 - 🌱 I’m currently learning CKA
 - 💞️ I’m looking to collaborate on DevOps related projects
-- 📫 Contact me via linkedin https://www.linkedin.com/in/mrhoq/
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/mrhoq/)
 
 <!---
 shaon21/shaon21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
