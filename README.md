@@ -14,7 +14,7 @@
 
 - 💞️ I’m looking to collaborate on Web & DevOps related projects
 
-- 📫 Contact me via [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrhoq/)
+- 📫 Contact me via  [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mrhoq/)
 
 ![Riasadul's GitHub stats](https://github-readme-stats.vercel.app/api?username=riasadul-hoq&show_icons=true&theme=tokyonight)
 
