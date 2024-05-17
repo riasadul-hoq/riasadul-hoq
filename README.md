@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Riasadul Hoq
 - ✔ Certified- AWS SAA & DVA | Azure AZ-900 | Terraform | ITIL® | FCBA
 - 👀 I’m interested in all things DevOps, Cloud ☁☁☁ & Frontend Development
-- 🌱 ### I’m currently coding with <br>
+- 🌱 I’m currently coding with <br>
 
   [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
   [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
